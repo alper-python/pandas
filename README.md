@@ -18,7 +18,7 @@ Dataset link: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 8. Merge the dataframes you created in questions 4-5-6-7.
 Expected output:
-![example result](res.png)
+![example result](pic.png)
 
 9. Lowercase all column names.
 
